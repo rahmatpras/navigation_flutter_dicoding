@@ -1,6 +1,6 @@
 # navigation_flutter
 
-A new Flutter project.
+How to make any navigation/intent activity in flutter
 
 ## Getting Started
 
